@@ -2,6 +2,7 @@
 
 ## Thanks
 EarthLive using Python has been made to perform on Mac. Note that two guys who name @bitdust and @xyangk are the important helpers of my codes.
+It is nor bright
 
 ## What is the EarthLive
 * EartLive is a kind of pragrams or softwares to set your wallpaper of PC or phones by the real-time earth living imags. That is amazing of nearly using and watching the 24-hour real-time earth pictures.
@@ -62,14 +63,30 @@ EarthLive using Python has been made to perform on Mac. Note that two guys who n
   ` http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_0_0.png
     http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_0_1.png
     http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_0.png
-    http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_1.png`
+    http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_1.png`</br>
   It means that the complete picture consists of the four pictures above and the time of pictures captured by Himawari-8 is 00:20:00 am, Nov. 25th, 2015.
 
 * What is the fetch interface by Cloudinary:
   * Fetch format:
   `http://res.cloudinary.com/[%Your_Cloud_Account_Name]/image/fetch/[%interface URL]`
+  So you may register an account on this [website](http://cloudinary.com).
+
+* How to combine the picture and set wallpaper:
+  * PIL (`Pillow` Python Module): We build a new canvas and paste the 4 sub-pictures into the new canvas. The function may be involved by `Imaga.new`, `Imaga.open` or `Image.paste(Image, [row position * base size, column position * base size])`.
+  * OS X shell: `tell an application "Finder"` or `tell application "System Events"`
 
 ### The Limitation of EarthLiveForMac
+* The strict permission of OS X: I cannot set it as the self-starting process. However, this problem has been discussed by this [place](https://github.com/xyangk/EarthLiveSharp) or [here](http://stackoverflow.com/questions/6442364/running-script-upon-login-mac).
+
+* The gap of this pragmatized tool: I still consider that coding is for fun. Therefore, this script or tool is just a beginning and we wait for more friends to help polishing this code. Thank you.
+
 
 ## License
 [GNU General Public License, version 3](LICENSE)
+
+## Finally
+` It's not bright.
+  I'm magnetised
+  To somebody that don't feel it, Love paralyzed just never gonna need me.
+`
+As it said, sure if the world keeps the moon in the sky. So please keep us hanging on the earth.
