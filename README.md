@@ -77,6 +77,7 @@ EarthLive using Python has been made to perform on Mac by @bitpeach. Note that t
 * How to combine the picture and set wallpaper:
   * PIL (`Pillow` Python Module): We build a new canvas and paste the 4 sub-pictures into the new canvas. The function may be involved by `Imaga.new`, `Imaga.open` or `Image.paste(Image, [row position * base size, column position * base size])`.
   * OS X shell: `tell an application "Finder"` or `tell application "System Events"`
+  This Python script is defaultly set as `2d` and the real-time high accurate picture is stored in your $HOME$/Pictures.
 
 ### The Limitation of EarthLiveForMac
 * The strict permission of OS X: I cannot set it as the self-starting process. However, this problem has been discussed by this [place](https://github.com/xyangk/EarthLiveSharp) or [here](http://stackoverflow.com/questions/6442364/running-script-upon-login-mac).
