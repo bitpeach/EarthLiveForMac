@@ -30,8 +30,8 @@ EarthLive using Python has been made to perform on Mac by @bitpeach. Note that t
 
 * Why did I do this: The Golang or Ruby version is not open-source, then I learned the Python version from @xyangk and found that may have some errors when running on Mac. So I tried to horizon my eyes and made some revisions.
 
-* What are the contribution points of this version:
->* I want the more accurate pictures when using the 4k or large size of Computer Screen. Therfore, I try to tailor the multiple pictures into the whole one. The codes from @xyangk did not include the higher accurate picture processing.
+* What are the contributions of this version:
+>* I want the more accurate pictures when using the 4k or large size of computer screen. Therefore, I try to tailor the multiple pictures into the whole one. The codes from @xyangk did not include the higher accurate picture processing.
 >* I found the codes from @xyangk may contains some error such as two places. The first is that those codes need AppKit to be running. However, AppKit is a problem to be linked with 3-rd Python. I tried to use the command "pip install PyObjc" and still got failed on the code building. The second is that those codes may use the wrong picture interface linked to the Himawari-8 web and I have fixed these.
 
 
