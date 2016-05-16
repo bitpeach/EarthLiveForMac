@@ -11,7 +11,7 @@ EarthLive using Python has been made to perform on Mac by @bitpeach. Note that t
 2016.05.16 14:30 p.m.
 ![](https://github.com/bitpeach/EarthLiveForMac/blob/master/Example%201%20%5BEarthLive%20is%20used%20in%20Wallpaper%5D.png)
 
-2016.05.16 17:00 p.m.
+2016.05.16 16:30 p.m.
 ![](https://github.com/bitpeach/EarthLiveForMac/blob/master/Example%202%20%5BEarthLive%20is%20used%20in%20Wallpaper%5D.png)
 
 * The real-time pictures of 24-hour earth come from the [Himawari-8](http://himawari8.nict.go.jp), the wiki or introduction of Himawari-8 is this [link](https://en.wikipedia.org/wiki/Himawari_8). Thanks to Himawari-8 of Japan satellite. And we will wait for the COMPASS satellite and hope to communicate with both two satellites. :-)
