@@ -9,7 +9,9 @@ EarthLive using Python has been made to perform on Mac. Note that two guys who n
 
 ## EathLive For Mac(What I have done)
 
-## How Does my Codes work?
+## How Does my Codes work
+
+### The Limitation of EarthLiveForMac
 
 ## License
 [GNU General Public License, version 3](LICENSE)
