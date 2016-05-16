@@ -63,10 +63,10 @@ EarthLive using Python has been made to perform on Mac by @bitpeach. Note that t
 
   * Here is an example: If [%accuracy] is set as `2d`, we should download the pictures using those 4 URLS as follows.
   [%Four interface URLs]</br>
-  ` http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_0_0.png
-    http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_0_1.png
-    http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_0.png
-    http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_1.png`</br>
+   ` http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_0_0.png`</br>
+   ` http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_0_1.png`</br>
+   ` http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_0.png`</br>
+   ` http://himawari8-dl.nict.go.jp/himawari8/img/D531106/2d/550/2015/11/25/002000_1_1.png`</br>
   It means that the complete picture consists of the four pictures above and the time of pictures captured by Himawari-8 is 00:20:00, Nov. 25th, 2015.
 
 * What is the fetch interface by Cloudinary:
