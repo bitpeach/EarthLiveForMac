@@ -4,7 +4,7 @@
 EarthLive using Python has been made to perform on Mac by @bitpeach. Note that two guys who name @bitdust and @xyangk are the important helpers of my codes.
 
 ## What is the EarthLive
-* EartLive is a kind of pragrams or softwares to set your wallpaper of PC or phones by the real-time earth living imags. That is amazing of nearly using and watching the 24-hour real-time earth pictures.
+* EartLive is a kind of pragrams or softwares to set your wallpaper of PC or phones by the real-time earth living images. That is amazing of nearly using and watching the 24-hour or real-time earth pictures captured by the satellite.
 
 * Here is an example. Please note that this wallpaper can be real-time changed by the earth real-time changing. Excited!
 
