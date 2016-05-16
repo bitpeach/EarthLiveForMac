@@ -50,6 +50,8 @@ EarthLive using Python has been made to perform on Mac by @bitpeach. Note that t
 >* (3) Finally, after we get the pictures, we find that the pictures have the only earth and no stripes. That may be not nice watched on the PC wallpaper. So we should resize the pictures. Meantime, some pictures comprise of one earth, so we should combine them. 
 
 * What is the picture interface by Himawari-8:
+  * Thanks to [@bitdust](https://github.com/bitdust/EarthLiveSharp). I learned the web interface from his email.
+
   * Json format: If you want to know how to download the pictures captured by Himawari-8, you should firstly know the data format of picture names. The json file name is obeyed this [format](http://himawari8.nict.go.jp/img/D531106/latest.json). The return data format is like this `{"date":"2016-05-15 10:00:00","file":"PI_H08_20160515_1000_TRC_FLDK_R10_PGPFD.png"}`.
   
   * Web interface about pictures: According to the format of json data, we can construct an `interface URL` like this `http://himawari8-dl.nict.go.jp/himawari8/img/D531106/1d/550/2016/05/15/100000_0_0.png` and we can open this URL by any web broswer. So we consider the regulatory format can be writed as follow.
