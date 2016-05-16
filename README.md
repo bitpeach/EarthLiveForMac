@@ -85,8 +85,11 @@ It is nor bright
 [GNU General Public License, version 3](LICENSE)
 
 ## Finally
-` It's not bright.
-  I'm magnetised
-  To somebody that don't feel it, Love paralyzed just never gonna need me.
-`
+` It's not bright.`
+
+` I'm magnetised.`
+
+` To somebody that don't feel it, love paralyzed just never gonna need me.`
+
 As it said, sure if the world keeps the moon in the sky. So please keep us hanging on the earth.
+By @bitpeach
