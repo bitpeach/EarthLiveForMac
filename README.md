@@ -84,7 +84,7 @@ EarthLive using Python has been made to perform on Mac by @bitpeach. Note that t
 ### The Limitation of EarthLiveForMac
 * The strict permission of OS X: I cannot set it as the self-starting process. However, this problem has been discussed by this [place](https://github.com/xyangk/EarthLiveSharp) or [here](http://stackoverflow.com/questions/6442364/running-script-upon-login-mac).
 
-* The gap of this pragmatized tool: I still consider that coding is for fun. Therefore, this script or tool is just a beginning and we wait for more friends to help polishing this code. Thank you.
+* The promotion of this tool: I still consider that coding is for fun. Therefore, this script or tool is just a beginning and we wait for more friends to help polishing this code. Thank you.
 
 
 ## License
